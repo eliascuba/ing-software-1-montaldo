@@ -26,6 +26,55 @@
 
 ---
 
+Cada grupo elige una app conocida, por ejemplo:
+
+cabify (didi/uber)
+
+¿Quiénes son sus usuarios?
+
+¿Qué problema resuelve la app?
+
+¿Qué funcionalidades principales tiene?
+
+¿Qué cosas no funcionan tan bien o podrían mejorar?
+
+Objetivo: Encontrar al menos 10 problemas o oportunidades. (gemini)
+
+Brainstorming de mejoras
+Reglas del brainstorming:
+no criticar ideas
+cantidad > calidad
+construir sobre ideas de otros
+aceptar ideas locas
+Objetivo: 20 ideas nuevas
+
+Elegir la mejor idea
+Elegir una idea final
+Responder:
+¿Qué problema resuelve?
+¿Para quién?
+¿Por qué sería valiosa?
+
+Entregable
+Individualmente terminar el trabajo y presentar en campus un pdf con:
+App elegida
+Problemas detectados
+Lista de ideas
+Idea Final
+Sobre la idea final se deberá hacer una encuesta o entrevista de usuarios
+
+Diseñar preguntas de entrevista
+No preguntar sobre la idea directamente
+Preguntar sobre comportamientos reales.
+Entrevistar usuarios
+
+Conclusión
+¿El problema existe?
+¿Nuestra idea ayuda a resolverlo?
+¿Deberíamos cambiar algo?
+
+
+
 ## 1. Demostraciones Teóricas
 
 El problema del Hitting-Set (versión de decisión) se define de la siguiente manera: Dado un conjunto $A$ de $n$ elementos, $m$ subconjuntos $B_1, B_2, \dots, B_m \subseteq A$, y un número entero $k$, queremos saber si existe un subconjunto $C \subseteq A$ tal que $|C| \le k$ y $C \cap B_i \neq \emptyset$ para todo $1 \le i \le m$.
