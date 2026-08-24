@@ -9,27 +9,18 @@
 
 <br><br>
 
-### TEORÍA DE ALGORITMOS (75.29)
-### CURSO BUCHWALD - GENENDER
+### Ingeniería de Software 1
+### Cátedra Montaldo
 
 <br><br>
 
-# Trabajo Práctico 3
+# Informe Brainstorming
 
 <br><br>
 
-**Fecha:** 15 de Junio de 2026
+### Alumno
 
-<br><br>
-
-### Integrantes del Grupo
-
-| Nombre y Apellido | Padrón |
-| :--- | :--- |
-| Mauricio Reale | 111479 |
 | Elías Josué Cuba Díaz | 106933 |
-| Bautista Gandolfo | 113121 |
-| Valentino Valle | 109083 |
 
 </div>
 
