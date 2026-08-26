@@ -87,3 +87,19 @@ Mejora la eficiencia operativa, reduce la tasa de abandono de usuarios frustrado
 
 ## Conclusión
 
+<div align="center">
+<img src="p1a4.jpg" width="250" alt="Logo FIUBA">
+<img src="p5a8.jpg" width="250" alt="Logo FIUBA">
+
+<br><br>
+
+<img src="p9a10.jpg" width="250" alt="Logo FIUBA">
+<img src="p11.jpg" width="250" alt="Logo FIUBA">
+
+</div>
+
+<br><br>
+
+El problema planteado es un problema que afecta a la gran mayoría de los usuarios según la encuesta (Pregunta 10). Por otro lado, dentro de las soluciones brindadas, la más elegida es saber cuando el viaje está a buen precio (Pregunta 11). Esto se puede ver en la Pregunta 5 que el público prefiere priorizar el factor precio en lugar del tiempo de espera.
+
+Según la encuesta, en general, el público está dispuesto a sacrificar un poco de comodidad y tiempo en favor de ahorrar en el precio. Por tanto, sería más beneficioso pensar en brindar las estadísticas sobre los precios a lo largo del tiempo.
