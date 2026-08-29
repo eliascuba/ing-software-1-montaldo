@@ -41,7 +41,7 @@ Elías Josué Cuba Díaz 106933
     <br>
 
     **Métricas:** Cantidad de unidades/paquetes de alimentos que se tiran a la basura al final de la semana por estar vencidos o en mal estado.Porcentaje de productos perecederos comprados en la semana que efectivamente fueron consumidos antes de su fecha de vencimiento.Porcentaje de reducción en el gasto total del supermercado en la categoría de perecederos respecto al mes anterior.
-
+    <br>
 
 - ### Problema 2: Foco en el estudio y control de impulsos por distracción
   
@@ -55,6 +55,7 @@ Elías Josué Cuba Díaz 106933
     <br>
 
     **Métricas:** Cantidad de interrupciones no planificadas o aperturas de redes durante los bloques de estudio (medido por la extensión). Disminución en los tiempos de pantalla de aplicaciones no deseadas. Incremento en el tiempo neto de estudio efectivo completado por día.
+    <br>
 
 - ### Problema 3: Centralización de tareas, deadlines asistido con IA
 
@@ -68,33 +69,35 @@ Elías Josué Cuba Díaz 106933
     <br>
 
     **Métricas:** Porcentaje de compromisos registrados el mismo día en que son asignados. Tiempo invertiddo en organizar las tareas.
+    <br>
 
+- ### Problema 4: Productos desperdiciados de los supermercados
 
-- ### Problema 4:
+    **Outcome:** Que los clientes puedan comprar productos frescos que están próximos a su fecha de vencimiento o con detalles estéticos, evitando que se acumulen al fondo de la góndola y terminen desechados.
+    <br>
 
+    **Hipótesis:** Si aplicamos un descuento progresivo y visible  a las frutas y verduras que están en sus últimos días de vida útil, los compradores priorizarán ahorrar dinero y consumir el producto en el corto plazo antes que dejarlo arruinar.
+    Si reubicamos estos productos con descuento en un sector exclusivo de "Aprovechá hoy" cerca de la entrada o góndolas principales, aumentaremos su visibilidad y rotación antes de que se vuelvan no aptos para el consumo.
+    <br>
 
-    **Outcome:** 
+    **Output:** Un sistema de etiquetado con precios dinámicos según días de vida útil restantes, acompañado de una sección o exhibidor destacado dentro del supermercado.
+    <br>
 
-
-    **Hipótesis:** 
-
-
-    **Output:**
-
-
-    **Métricas:** 
-
+    **Métricas:** Porcentaje de reducción de los productos descartados. Margen recuperado de ingresos sobre productos que antes representaban una pérdida del 100%.
+    <br>
 
 ## Ejercicio 2
 
 - **Acreditación de la tarjeta sube:** Al realizar una carga de forma virtual, el saldo no impacta inmediatamente en la tarjeta. Se tiene que acreditar en una Terminal Automática, disponer de un teléfono con NFC o en el colectivo.
+<br>
 
-- **Qué poder cocinar con lo que tengo en casa y cuándo aprovechar los tiempos muertos**
+- **Qué poder cocinar con lo que tengo en casa y cuándo aprovechar los tiempos muertos:** Uno siempre se fija cada dia qué poder preparar. También hay momentos de cocción o reposo que se pueden aprovechar.
+<br>
 
-- **Saber cuando viene el proximo medio de transporte en tiempo real**
+- **Saber cuando viene el proximo medio de transporte en tiempo real:** Por prevenir que el transporte se pase, uno sale más temprano pero a veces éste se tarda más de lo usual y espera por tiempo indefinido.
+<br>
 
+- **Cargar el celular sin dejarlo por mucho tiempo:** Dejar el celular cargando es una mala práctica porque gasta la batería del mismo más rápido, empeorando su eficiencia.
+<br>
 
-- **Cargar el celular sin dejarlo por mucho tiempo**
-
-
-- **Tiempo de espera en la fila del supermercado**
+- **Tiempo de espera en la fila del supermercado:** Como las filas siguen en medio de las góndolas, uno no sabe en tiempo real cuál es la fila más corta. Esto hace que haya personas que se quedan en una fila sin saber que hay otras que están más vacías, lo cual distribuye de forma desigual los tiempos en caja.
